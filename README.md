@@ -90,7 +90,7 @@ The dataset contained numerous inconsistencies, atypical records and formatting 
 ## Dashboard
 ***This dashboard was built in Google Sheets to analyse revenue performance, customer behaviour, regional trends, product performance and returns over time.***  
 
-![Google Sheets Online Retail Dashboard](Online Retail Customer and Revenue Analysis/online_retail_dashboard.png)
+![Google Sheets Online Retail Dashboard]("C:\Users\TJAnd\OneDrive\Data Analytics\Data Projects 04.26\E-Commerce Google Sheets Project\dashboard_image.png")
 
 ## Key Insights
 
