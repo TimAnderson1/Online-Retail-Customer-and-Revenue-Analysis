@@ -4,6 +4,17 @@
 
 In this project I used a large online retail dataset and aimed to understand customer purchasing behaviour and analyse revenue trends. The analysis culminated in a Google Sheets dashboard and a series of business insights. The dataset was inconsistent and contained numerous quality issues, cleaning it was a main portion of the project to ensure data accuracy when analysing it. The final analysis focused on product-related transactions to guarantee that KPIs and visualisations accurately reflect sales performance.
 
+## Business Questions
+1. How is the business performing overall?
+
+2. What factors are driving revenue performance?
+
+3. What does customer behaviour look like?
+
+4. How much are returns impacting the business?
+
+5. What opportunities exist to improve performance?
+
 ## Dataset
 
 **Link to kaggle dataset:**  
